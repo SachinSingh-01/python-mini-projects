@@ -1,0 +1,5 @@
+sachin:present
+kumod:absent
+moni:present
+kk:absent
+doggy:absent
